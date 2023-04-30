@@ -52,7 +52,7 @@ body {
     font-size: var(--font-large);
     font-weight: var(--weight-bold);
     color: var(--color-black);
-    margin: 16px 0px;
+    margin: 15px 0px;
   }
   
   h2 {
